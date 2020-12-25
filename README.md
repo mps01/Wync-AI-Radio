@@ -1,4 +1,4 @@
-# Wync_radio_ai
+# Wync-AI-Radio
 
 # UNDER CONSTRUCTION
 - Flutter Radio App with voice assisted search.(Alan Voice AI)

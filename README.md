@@ -1,6 +1,7 @@
 # flutter_radio_ai
 
-A new Flutter project.
+# UNDER CONSTRUCTION
+- Flutter Radio App with voice assisted search.(Alan Voice AI)
 
 ## Getting Started
 

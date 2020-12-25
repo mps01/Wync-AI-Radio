@@ -10,7 +10,7 @@ class _HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) {
     return Material(
-      color: AIColors.primaryColor2,
+      color: AIColors.primaryColor1,
     );
   }
 }

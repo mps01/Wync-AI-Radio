@@ -111,6 +111,20 @@
             "category": "classic",
             "disliked": false,
             "order": 8
+        },
+        {
+            "id": 9,
+            "name": "91.1",
+            "tagline": "FM Bole Toh RadioCity",
+            "color": "0xffa06a37",
+            "desc": "The flavour of Radio City 91.1 FM online, with stories from Love Guru and the oh-so hilarious Babber Sher.",
+            "url": "https://prclive4.listenon.in/Hindi",
+            "icon": "https://www.adgully.com/image/2010-07-RadioCity-91.1-FM.jpg",
+            "image": "https://www.radiocity.in//images/other-channels/other-gallery/Katrina-Kaif-and-Hrithik-Roshan-hug1437592806.jpg",
+            "lang": "Hindi",
+            "category": "Bollywood",
+            "disliked": false,
+            "order": 9
         }
     ]
 }

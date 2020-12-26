@@ -2,6 +2,7 @@ import 'package:velocity_x/velocity_x.dart';
 import 'package:flutter/material.dart';
 
 mixin AIColors {
-  static Color primaryColor1 = Vx.orange400;
-  static Color primaryColor2 = Vx.purple500;
+  static Color primaryColor1 = Color(0xFF604FEF);
+  static Color primaryColor2 = Color(0xFFA74DBC);
+  static Color vulcan = Color(0xFF141221);
 }

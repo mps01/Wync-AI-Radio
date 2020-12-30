@@ -45,8 +45,8 @@
         },
         {
             "id": 4,
-            "name": "102",
-            "tagline": "The RnB Channel.com!",
+            "name": "Mix Lite",
+            "tagline": "Lite Mix to your life.",
             "color": "0xff04080b",
             "desc": "Playing music regularly will physically alter your brain structure.",
             "url": "https://rfcmedia.streamguys1.com/mixlitepremium.mp3",
@@ -59,8 +59,8 @@
         },
         {
             "id": 5,
-            "name": "1",
-            "tagline": "SR The Hit List",
+            "name": "1.",
+            "tagline": "Top Billboard Hit List.",
             "color": "0xff066c53",
             "desc": "",
             "url": "https://rfcmedia.streamguys1.com/srhitlist.mp3",
@@ -74,8 +74,8 @@
 
         {
             "id": 6,
-            "name": "94",
-            "tagline": "Today's Hits",
+            "name": "SR Alt RockHits",
+            "tagline": "Rock n Roll never die" ,
             "color": "0xff27383e",
             "desc": "",
             "url": "https://rfcmedia.streamguys1.com/sraltrockhits.mp3",

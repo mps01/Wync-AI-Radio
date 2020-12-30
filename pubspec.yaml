@@ -25,6 +25,7 @@ dependencies:
     sdk: flutter
   audioplayers: ^0.17.0
   cupertino_icons: ^1.0.1
+
   google_fonts: ^1.1.1
   velocity_x: ^1.0.1
 

@@ -74,21 +74,35 @@
 
         {
             "id": 6,
-            "name": "SR Alt RockHits",
+            "name": "iRock247",
             "tagline": "Rock n Roll never die" ,
             "color": "0xff27383e",
             "desc": "",
-            "url": "https://rfcmedia.streamguys1.com/sraltrockhits.mp3",
+            "url": "https://streamer.radio.co/s493283a7e/listen",
             "icon": "https://static.radio.net/images/broadcasts/8d/76/3600/1/c175.png",
-            "image": "https://pm1.narvii.com/7223/3f9c09c90c78c85b3c8f31847caaed564e011cf3r1-720-1152v2_hq.jpg",
+            "image": "https://www.mercurynews.com/wp-content/uploads/2016/08/20140915__CCT-HEAR-09181.jpg?w=645",
             "lang": "English",
             "category": "rock",
             "disliked": false,
             "order": 6
         },
-
         {
             "id": 7,
+            "name": "The Hot",
+            "tagline": "Your Pulse on Today's best." ,
+            "color": "0xff27383e",
+            "desc": "",
+            "url": "https://c16.radioboss.fm:18185/stream",
+            "icon": "https://static.mytuner.mobi/media/tvos_radios/beqhmlby9cwp.png",
+            "image": "https://s3-us-west-2.amazonaws.com/paradigm-media-library/music_artists/alan-walker-20191219.jpg",
+            "lang": "English",
+            "category": "EDM",
+            "disliked": false,
+            "order": 7
+        },
+
+        {
+            "id": 8,
             "name": "93",
             "tagline": "Love Songs",
             "color": "0xffa06a37",
@@ -99,12 +113,12 @@
             "lang": "Hindi",
             "category": "pop",
             "disliked": false,
-            "order": 7
+            "order": 8
         },
         {
-            "id": 8,
+            "id": 9,
             "name": "107",
-            "tagline": "Rocking Retro Hits",
+            "tagline": "Gold Time Retro Hits",
             "color": "0xff090909",
             "desc": "Your heartbeat changes to mimics the music you listen to.",
             "url": "https://puranijeanshdliv-lh.akamaihd.net/i/PuraniJeansHDLive_1_1@334555/index_1_a-p.m3u8?sd=10&rebase=on",
@@ -113,10 +127,10 @@
             "lang": "Hindi",
             "category": "classic",
             "disliked": false,
-            "order": 8
+            "order": 9
         },
         {
-            "id": 9,
+            "id": 10,
             "name": "96",
             "tagline": "Bollywood Dil Se",
             "color": "0xffa06a37",
@@ -127,10 +141,10 @@
             "lang": "Hindi",
             "category": "Bollywood",
             "disliked": false,
-            "order": 9
+            "order": 10
         },
         {
-            "id": 10,
+            "id": 11,
             "name": "91.1",
             "tagline": "All Time 24×7 Top Punjabi Hindi Hits",
             "color": "0xffa06a37",
@@ -141,21 +155,21 @@
             "lang": "Punjabi",
             "category": "Punjabi",
             "disliked": false,
-            "order": 10
+            "order": 11
         },
         {
-            "id": 11,
+            "id": 12,
             "name": "115",
             "tagline": "Relax & Unwind",
             "color": "0xffa06a37",
             "desc": "Listen and forego your fatigue and calm your soul",
             "url": "https://rfcmedia.streamguys1.com/relaxationpremium.mp3",
             "icon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/ynn3xmm65ss7.jpeg",
-            "image": "https://inspireportal.com/wp-content/uploads/2014/07/bigstock-Caucasian-Woman-Practicing-Yog-45983413.jpg",
+            "image": "https://images.pexels.com/photos/4473864/pexels-photo-4473864.jpeg?cs=srgb&dl=pexels-ketut-subiyanto-4473864.jpg&fm=jpg",
             "lang": "English",
             "category": "Relax",
             "disliked": false,
-            "order": 11
+            "order": 12
         }
     ]
 }

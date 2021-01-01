@@ -23,9 +23,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  alan_voice: ^2.0.13
   audioplayers: ^0.17.0
   cupertino_icons: ^1.0.1
-
   google_fonts: ^1.1.1
   velocity_x: ^1.0.1
 
@@ -38,7 +38,7 @@ dev_dependencies:
 # The following section is specific to Flutter.
 flutter:
 
-  # The following line ensures that the Material Icons font is
+  # The following line ensures that the MaterialP Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true

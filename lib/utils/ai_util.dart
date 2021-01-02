@@ -1,4 +1,4 @@
-import 'package:velocity_x/velocity_x.dart';
+
 import 'package:flutter/material.dart';
 
 mixin AIColors {

@@ -1,11 +1,12 @@
+import 'package:alan_voice/alan_voice.dart';
 import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:velocity_x/velocity_x.dart';
+
 import 'package:flutter_radio_ai/model/radio.dart';
 import 'package:flutter_radio_ai/utils/ai_util.dart';
-import 'package:velocity_x/velocity_x.dart';
-import 'package:alan_voice/alan_voice.dart';
 
 class HomePage extends StatefulWidget {
   @override

@@ -1,12 +1,11 @@
-import 'package:alan_voice/alan_voice.dart';
 import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:velocity_x/velocity_x.dart';
-
 import 'package:flutter_radio_ai/model/radio.dart';
 import 'package:flutter_radio_ai/utils/ai_util.dart';
+import 'package:velocity_x/velocity_x.dart';
+import 'package:alan_voice/alan_voice.dart';
 
 class HomePage extends StatefulWidget {
   @override
@@ -49,8 +48,7 @@ class _HomePageState extends State<HomePage> {
   }
 
   setupAlan() {
-    AlanVoice.addButton(
-        "a20414fd3753fd94d07fe019674a9c992e956eca572e1d8b807a3e2338fdd0dc/prod",
+    AlanVoice.addButton("<Enter your key>",
         buttonAlign: AlanVoice.BUTTON_ALIGN_RIGHT);
     AlanVoice.callbacks.add((command) => _handleCommand(command.data));
   }

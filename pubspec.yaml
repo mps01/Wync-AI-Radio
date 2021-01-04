@@ -24,6 +24,7 @@ dependencies:
   flutter:
     sdk: flutter
   alan_voice: ^2.0.13
+  audio_service: ^0.16.0
   audioplayers: ^0.17.0
   cupertino_icons: ^1.0.1
   google_fonts: ^1.1.1

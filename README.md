@@ -1,7 +1,9 @@
-# Wync-AI-Radio
+# Wync-AI-Radio (Beta)
 
-# UNDER CONSTRUCTION
 - Flutter Radio App with voice assisted search.(Alan Voice AI)
+An attempt to provide an ad-free experience by hand picking radio stations in English, Hindi and Punjabi (other languages coming soon).
+Having several genres ranging from hip-hop to meditating to cater to all type of music lovers.
+It has been integrated with Alan Voice Assistant to provide a smooth hands-free experience.
 
 ## Getting Started
 

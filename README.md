@@ -22,7 +22,7 @@ samples, guidance on mobile development, and a full API reference.
 
 - Homecreen Tab:
 <p align="center">
-  <img src="https://github.com/mps01/Wync-AI-Radio/blob/74f15f83597f790532796299da8378aa9b1a4eee/screenshots/homepage.png?raw=truer_tab.png?raw=true" alt="Homescreen Tab image"/>
+  <img src="https://github.com/mps01/Wync-AI-Radio/blob/74f15f83597f790532796299da8378aa9b1a4eee/screenshots/homepage.png?raw=truer_tab.png?raw=true"  alt="Homescreen Tab image" width=100/>
 </p>
 - Play by voice command:
 <p align="center">

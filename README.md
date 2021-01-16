@@ -22,13 +22,14 @@ samples, guidance on mobile development, and a full API reference.
 
 - Homecreen Tab:
 <p align="center">
-  <img src="https://github.com/mps01/Wync-AI-Radio/blob/74f15f83597f790532796299da8378aa9b1a4eee/screenshots/homepage.png?raw=truer_tab.png?raw=true"  alt="Homescreen Tab image" width=100/>
+  <img src="https://github.com/mps01/Wync-AI-Radio/blob/74f15f83597f790532796299da8378aa9b1a4eee/screenshots/homepage.png?raw=truer_tab.png?raw=true"  alt="Homescreen Tab image" width=500/>
 </p>
 - Play by voice command:
 <p align="center">
-  <img src="https://github.com/mps01/Wync-AI-Radio/blob/74f15f83597f790532796299da8378aa9b1a4eee/screenshots/voice_play.png?raw=true" alt="Voice Play image"/>
+  <img src="https://github.com/mps01/Wync-AI-Radio/blob/74f15f83597f790532796299da8378aa9b1a4eee/screenshots/voice_play.png?raw=true" alt="Voice Play image"
+       width=500/>
 </p>
 - Change in color theme when swiped:
 <p align="center">
-  <img src="https://github.com/mps01/Wync-AI-Radio/blob/74f15f83597f790532796299da8378aa9b1a4eee/screenshots/back_color_change.png?raw=true" alt="Color Theme image"/>
+  <img src="https://github.com/mps01/Wync-AI-Radio/blob/74f15f83597f790532796299da8378aa9b1a4eee/screenshots/back_color_change.png?raw=true" alt="Color Theme image" width=500/>
 </p>
